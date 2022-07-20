@@ -25,3 +25,9 @@
 * <b>Cálculo do Valor de Seguro de Vida - Regressão com PyCaret</b>: [Jupyter Notebook](https://github.com/ygordev/Data-Science/blob/efe9de1a006fe46a454c3a31611f3795c41915b7/Ca%CC%81lculo-Valor-Seguro-de-Vida-com-PyCaret-Regressa%CC%83o/notebooks/YgorML_org_%5BPROJETO%5D_Calculando_o_Valor_do_Seguro_de_Vida_utilizando_PyCaret_(regressa%CC%83o).ipynb)  | [Medium](#)
 
 * <b>Saúde Fetal - Classificação com PyCaret</b>: [Jupyter Notebook](#)  | [Medium](#)
+
+* <b>Previsão de Demanda com Prophet</b>: [Jupyter Notebook](#)  | [Medium](#)
+
+* <b>Análise de Risco de Crédito</b>: [Jupyter Notebook](#)  | [Medium](#)
+
+* <b>Deep Learning - Classificação de Fake News</b>: [Jupyter Notebook](#)  | [Medium](#)
