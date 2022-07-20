@@ -1,7 +1,7 @@
-Airbnb-Vancouver
+Cálculo do Valor de Seguro de Vida com PyCaret (Regressão)
 ==============================
 
-Análise dos Dados do Airbnb Vancouver
+Cálculo do Valor de Seguro de Vida com PyCaret (Regressão)
 
 Project Organization
 ------------
