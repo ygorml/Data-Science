@@ -1,7 +1,8 @@
-Airbnb-Vancouver
+Panorama da COVID-19 no Brasil e no Mundo
 ==============================
 
-Análise dos Dados do Airbnb Vancouver
+Panorama da COVID-19 no Brasil e no Mundo.<br>
+[Dataset aqui](https://laboratoriodebits.com.br/owid-covid-data-04DEZ2021.csv) | [Dicionário de Variáveis](https://laboratoriodebits.com.br/owid-covid-codebook.csv)
 
 Project Organization
 ------------
