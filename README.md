@@ -13,7 +13,7 @@
 ## 💻  Data Science Projects
 ### Portuguese 🇧🇷
 
-* <b>Análise dos dados do Airbnb - Vancouver</b>: [Jupyter Notebook](https://github.com/ygordev/Data-Science/blob/main/10_YgorLima_tech_Projeto_Analisando_os_dados_do_Airbnb_Vancouver.ipynb) | [Medium](https://ygorml.org/an%C3%A1lise-dos-dados-do-airbnb-vancouver-canada-687d1e7ea6e?source=collection_home---2------2-----------------------)
+* <b>Análise dos dados do Airbnb - Vancouver</b>: [Jupyter Notebook](https://github.com/ygordev/Data-Science/blob/main/Ana%CC%81lise-dos-dados-do-Airbnb-Vancouver/notebooks/10_YgorLima_tech_Projeto_Analisando_os_dados_do_Airbnb_Vancouver.ipynb) | [Medium](https://ygorml.org/an%C3%A1lise-dos-dados-do-airbnb-vancouver-canada-687d1e7ea6e?source=collection_home---2------2-----------------------)
 
 * <b>Panorama da COVID-19 no Brasil e no Mundo</b>: [Jupyter Notebook](https://colab.research.google.com/github/ygordev/Data-Science/blob/main/YgorLima_tech_Panorama_do_COVID_19_no_Brasil.ipynb) | [Medium](https://ygorml.org/panorama-do-covid-19-no-brasil-e-no-mundo-uma-abordagem-baseada-em-dados-69731626a6dc?source=collection_home---2------1-----------------------)
 
