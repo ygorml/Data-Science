@@ -1,7 +1,8 @@
-Airbnb-Vancouver
+Detecção de Fraudes em Cartão de Crédito
 ==============================
 
-Análise dos Dados do Airbnb Vancouver
+Detecção de Fraudes em Cartão de Crédito.<br>
+Dataset disponível [aqui](https://laboratoriodebits.com.br/kaggle-creditcard-data.csv)
 
 Project Organization
 ------------
