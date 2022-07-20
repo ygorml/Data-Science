@@ -31,3 +31,7 @@
 * <b>Análise de Risco de Crédito</b>: [Jupyter Notebook](#)  | [Medium](#)
 
 * <b>Deep Learning - Classificação de Fake News</b>: [Jupyter Notebook](#)  | [Medium](#)
+
+## 💻  Data Science Dashboards & Solutions
+
+* <b>Em breve</b>
