@@ -1,7 +1,7 @@
-Airbnb-Vancouver
+Churn Prediction para Empresa de Telecomunicações
 ==============================
 
-Análise dos Dados do Airbnb Vancouver
+Churn Prediction para Empresa de Telecomunicações
 
 Project Organization
 ------------
