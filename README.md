@@ -1,4 +1,6 @@
-[![Header](https://laboratoriodebits.com.br/wp-content/uploads/2022/01/banner-2.png "Header")](https://laboratoriodebits.com.br/)
+<p align='center'>
+<img height="300" src="https://github.com/ygordev/Data-Science/blob/1b23facc1601ae976af64efdfdc96a8687e874cb/Imagens/ygor%20lima%20ds.png">
+</p>
 
 <p align='center'>
   <u>Links</u><br><br>
