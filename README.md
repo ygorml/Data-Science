@@ -34,7 +34,7 @@
 
 ## 💻  Data Science Dashboards & Solutions
 
-* <b>Em breve</b>
+* <b>Life Insurance Dashboard</b>: [Source Code](https://github.com/ygordev/LifeInsuranceDashboard)
 
 ## Templates de Projeto
 * [CookieCutter Data Science](https://github.com/drivendata/cookiecutter-data-science)
