@@ -35,3 +35,6 @@
 ## 💻  Data Science Dashboards & Solutions
 
 * <b>Em breve</b>
+
+## Templates de Projeto
+* [CookieCutter Data Science](https://github.com/drivendata/cookiecutter-data-science)
