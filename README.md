@@ -30,11 +30,21 @@
 
 * <b>Análise de Risco de Crédito</b>: [Jupyter Notebook](#)  | [Medium](#)
 
+* <b>API para aplicação de Machine Learning (Heroku)</b>: [Source Code](#)  | [Medium](#)
+
 * <b>Deep Learning - Classificação de Fake News</b>: [Jupyter Notebook](#)  | [Medium](#)
 
 ## 💻  Data Science Dashboards & Solutions
 
-* <b>Life Insurance Dashboard</b>: [Source Code](https://github.com/ygordev/LifeInsuranceDashboard)
+* <b>Life Insurance - Dashboard</b>: [Source Code](https://github.com/ygordev/LifeInsuranceDashboard)
+
+* <b>Análise de Dados Financeiros - Dashboard</b>: [Source Code](#)  | [Medium](#)
+
+* <b>Webscraping em Imobiliárias - Dashboard</b>: [Source Code](#)  | [Medium](#)
+
+## MIT 6.S191
+
+* <b>Intro to Deep Learning - Lecture 1</b>: [Notas de Estudo](#)
 
 ## Templates de Projeto
 * [CookieCutter Data Science](https://github.com/drivendata/cookiecutter-data-science)
