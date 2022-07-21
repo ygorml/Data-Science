@@ -22,7 +22,7 @@
 
 * <b>Churn Prediction para uma empresa de Telecomunicações</b>: [Jupyter Notebook](https://github.com/ygordev/Data-Science/blob/efe9de1a006fe46a454c3a31611f3795c41915b7/Churn-Prediction-para-empresa-Telecomunicac%CC%A7o%CC%83es/notebooks/YgorML_org_Churn_Prediction_para_uma_empresa_de_Telecomunicac%CC%A7o%CC%83es_10MAR_v2.ipynb)  | [Medium](https://ygorml.org/churn-prediction-para-uma-empresa-de-telecomunica%C3%A7%C3%B5es-aplicando-o-crisp-dm-para-constru%C3%A7%C3%A3o-de-a278fe2ad18c)
 
-* <b>Cálculo do Valor de Seguro de Vida - Regressão com PyCaret</b>: [Jupyter Notebook](https://github.com/ygordev/Data-Science/blob/efe9de1a006fe46a454c3a31611f3795c41915b7/Ca%CC%81lculo-Valor-Seguro-de-Vida-com-PyCaret-Regressa%CC%83o/notebooks/YgorML_org_%5BPROJETO%5D_Calculando_o_Valor_do_Seguro_de_Vida_utilizando_PyCaret_(regressa%CC%83o).ipynb)  | [Medium](#)
+* <b>Cálculo do Valor de Seguro de Vida - Regressão com PyCaret</b>: [Jupyter Notebook](https://github.com/ygordev/LifeInsuranceDashboard/blob/main/YgorML_org_%5BPROJETO%5D_C%C3%A1lculo_do_Valor_do_Seguro_de_Vida_Regress%C3%A3o_utilizando_PyCaret.ipynb)  | [Medium](#)
 
 * <b>Saúde Fetal - Classificação com PyCaret</b>: [Jupyter Notebook](#)  | [Medium](#)
 
